@@ -1,0 +1,117 @@
+#EXTM3U
+
+
+#EXTINF: -1 TVG-logotipo = "http://cdnpotok.com/player/playerjs.html?file=http://50.7.222.90:8081/fox/index.m3u8?wmsAuthSign=8c783a0a16527fd1b1efe0270436bae1-1629405325-701i441i42i781
+
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME 1" group-title "BBB, HDME 1 http://csrv.me:80/5000740475/fireurl.co/33430 
+
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" group-title "BBB, HDME 2 http://origin.canaismax.com:443/live/bbb01hd/video.m3u8 
+
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEICOA group"-title = BBB 2020, Mgrt "grupo HD = BBB" 2020 Mgrt " http://csrv.me:80/5000740475/fireurl.co/29879 
+
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBB, 2020, CONFgrt" group-title = "BBB2020 http://fonteangelusiptv.com:25461/michele/michele/92508 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBB, 2020, CONFgrt" group-title = "BBB2020 http://origin.canaismax.com:443/live/bbb02hd/video.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBBUART 2020, CEME CAMgrt" group "BBBUART 2020, CEMGRT" título do grupo "BBBUART 2020, http://origin.canaismax.com:443/live/bbb03hd/video.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBB 2020, CAMgrt" group-title "BBB 2020," BBB http://fonteangelusiptv.com:25461/michele/michele/92510 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBBIN, AZULHA 1" BBBINC CAMgrt "BBB202020, AZULHA-T8wRrHxVLvbSYcWME" -título 1 "BBBIN CAMgrt" grupo COZHA "BBB202020" AZULHA 1 "BBBIN, AZULHA" título do grupo "BBBIN, AZHA 1" BBBIN, AZHA http://fonteangelusiptv.com:25461/michele/michele/92512 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" group-title "BBBIN 2020, BBBIN"-title http://fonteangelusiptv.com:25461/michele/michele/92514 
+
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWgrt" group-title "BBB BANHE 2020" http://fonteangelusiptv.com:25461/michele/michele/92523 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" grupo EXTERNO "BBB PISCINA 2020" BBB PISCINA 2020, EXT8wRrHxVLvbSYcWMEgrt "-title = BBB PISCINA 2020, T8wRrHxVLvbSYcWMEgrt" grupo "BBB PISCINA 2020 http://fonteangelusiptv.com:25461/michele/michele/92518 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWMEgrt" grupo PISC = "BBB 2020, EXTERNA"-title = "BBB 2020 http://fonteangelusiptv.com:25461/michele/michele/92520 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBB 2020IA, BBB ACgrt" título http://fonteangelusiptv.com:25461/michele/michele/92524 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSkRf5lod4hww9m3p5drMWg7LwQR5H-T8wRrHxVLvbSYcWME" group-title "BBB" EXTERNA, BBB "2020, SALA 2020, T8wRrHxVLvbSYcWMEgrt" group-title = BBB "SALA 2020, SALA-T8wRrHxVLvbSYcWME"-título "BBB 2020, EXTER" do grupo "BBB 2.020" SALA-T8wRrHxVLvbSYcWME "-title http://fonteangelusiptv.com:25461/michele/michele/92516 ####################################### GLOBO ######################### ################## 
+
+#EXTINF: -1 tvg-logo = "https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title = "CANAL ABERTO", GLOBO http://quatv2.com:9000/eduardo10/eduardo10/17392 
+
+#EXTINF: -1 tvg-logo = "https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title = "CANAL ABERTO", GLOBO SP https://stream2.canais.info:443/a/hls/bobosp.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://www.vegasbrazil.com/wp-content/uploads/2015/05/icone-Rede-Globo.png" group-title = "CANAL ABERTO", GLOBO SP TV TEM BAURU SD http://p2prime.xyz:80/1000011/1000011/9185 ##################################### SBT ########################## ############################ 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/PFyHGKW1Zi/6XASjzxXuCMhecVB.png" group-title = "CANAL ABERTO", SBT https://origin.topcanais.com:443/mylive/sbtsd/video.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/PFyHGKW1Zi/6XASjzxXuCMhecVB.png" group-title = "CANAL ABERTO", SBT https://origin.topcanais.com:443/live/sbthd/video.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/PFyHGKW1Zi/6XASjzxXuCMhecVB.png" group-title = "CANAL ABERTO", SBT http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w133088733.m3u8 ######################### BANDA ######################## ######################### 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/2BhC5wHWrS/fygyFeXKxcnwoPnp.png" group-title = "CANAL ABERTO", BAND http://p2prime.xyz:80/1000011/1000011/8879 
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/9bw0Q4n.png" group-title = "CANAL ABERTO", BAND HD http://p2prime.xyz:80/1000011/1000011/8524 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGqIAw6omU52o1wbY70aI_idrTSKl8daLUmwWuBCloBG2iaN6u&usqp=TOCAU" group-title = "CANAL HDER http://p2prime.xyz:80/1000011/1000011/8524 ######################## REGISTRO ######################### ###################### 
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/record.png" group-title = "CANAL ABERTO", RECORD HD http://quatv2.com:9000/eduardo10/eduardo10/7690 
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/record.png" group-title = "CANAL ABERTO", RECORD FHD http://quatv2.com:9000/eduardo10/eduardo10/19193 ############################### REDE TV ################################ ###################### 
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title = "CANAL ABERTO", REDE TV http://jessicatv.site:8080/scoffy/94c4179c1453/7359 
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title = "CANAL ABERTO", REDE TV HD http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8 ############################### TV CULTURA ############################## ################## 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/5Fqo8UUjfo/CH937NOvLAQQQqJc.gif" group-title = "CANAL ABERTO", TV CULTURA http://200.189.113.201/hls/tve.m3u8 
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/kai6F2R.png" group-title = "CANAL ABERTO", TV CULTURA PR http://200.189.113.201/hls/tve.m3u8 ############################ TV GAZETA ###################################################################################################### ################# 
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/1XNfzj" group-title = "CANAL ABERTO", TV GAZETA http://jessicatv.site:8080/scoffy/94c4179c1453/8899 
+
+#EXTINF: -1 tvg-logo = "http://listaiptvbrasil.com/logos/tvgazeta.png" group-title = "CANAL ABERTO", TV GAZETA http://jessicatv.site:8080/scoffy/94c4179c1453/8899 ############################ REDE FAMILIA ############################### ############### 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title = "CANAL ABERTO", REDE FAMÍLIA https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w540635128_b1300000.m3u8 
+
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/sQwm6Cl.png" group-title = "CANAL ABERTO", REDE FAMÍLIA https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_w540635128_b1300000.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/pt/thumb/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png/200px-Logotipo_da_TV_Can%C3%A7% C3% A3o_Nova.png "group-title =" CANAL ABERTO ", CANCAO NOVA https://cancaonova.secure.footprint.net:443/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8 ############################# TV ESCOLA ################################ #################### 
+
+#EXTINF: -1 tvg-logo = "https://www.tvmagazine.com.br/imagens/icones/600/tvescola.png" group-title = "CANAL ABERTO", TV ESCOLA HD http://jessicatv.site:8080/scoffy/94c4179c1453/7372 ################################ TV BRASIL ############################ ##################### 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/4LeikAY7IP/CmMDuTuJ9MVPbJIc.png" group-title = "CANAL ABERTO", REDE BRASIL https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1109850641.m3u8 
+
+#EXTINF: -1 tvg-logo = "http://s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title = "CANAL ABERTO", TV BRASIL http://jessicatv.site:8080/scoffy/94c4179c1453/24284 ################################ TV FUTURA ############################ #################### 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRI_vqgOwpU0vlJO3STIGdGHYCo5TKeE8qpCyHszqBmLsaqAmv7&usqBmLsaqAmv7&usqp=" grupo de FACUT-TVCAU = "grupo de CANU HszqBmLsaqAmv7" HDCAU "TITULAR" HDCAU = "Título de CANU HszqBmv7&usqp=" ABUT-TVCAUURA = "Título de HDCAU =" ABUT-TVCAU = "título de HDCAU =" ABUT-TVCAU = "Título de CANU-HszqBmv7" ABUTCAU = "HDCAUUURRTitulo =" HDCAU TITULAU = "título de CANU-HszqBmv7". http://jessicatv.site:8080/scoffy/94c4179c1453/7342 
+
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRI_vqgOwpU0vlJO3STIGdGHYCo5TKeE8qpCyHszqBmLsaqAmv7&ALJO3STIGdGHYCo5TKeE8qpCyHszqBmLsaqAmv7&usqBmLsaqAmv7&usqp=" grupo de TVCAU = "TITULAR CANU =" TITULAR do grupo CANU = "TVCAUCAU" = "Título do CANU-ACU =" eusqp= http://jessicatv.site:8080/scoffy/94c4179c1453/7342 ################################ TVE ################################ ########################### 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title = "CANAL ABERTO", TVE RS http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://lut.im/nAKOTQRi7f/LsbdLvntn6zXlm9J.png" group-title = "CANAL ABERTO", TVE RS http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 
+
+
+#EXTINF: -1 tvg-logo = "" group-title = "CANAL ABERTO", TV APARECIDA http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8 
+
+#EXTINF: -1 tvg-logo = "" group-title = "CANAL ABERTO", TV APARECIDA http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8 ############################### NOTICIAS ################################ ############### 
+
+#EXTINF: -1 tvg-logo = "http://s12.postimg.org/o61obsaq1/record_news.png" group-title = "NOTICIAS", Gravar notícias http://jessicatv.site:8080/scoffy/94c4179c1453/14540 
+
+#EXTINF: -1 tvg-logo = "http://s12.postimg.org/o61obsaq1/record_news.png" group-title = "NOTICIAS", Gravar notícias http://jessicatv.site:8080/scoffy/94c4179c1453/14540 
+
+#EXTINF: -1 tvg-logo = "https://s32.postimg.org/8pydcnfhx/band_news.png" group-title = "NOTICIAS", Band News https://proxyts.canais.gratis:8443/hls1/bandnews.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://s32.postimg.org/8pydcnfhx/band_news.png" group-title = "NOTICIAS", Band News https://proxyts.canais.gratis:8443/hls1/bandnews.m3u8 
+
+#EXTINF: -1 tvg-logo = "http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title = "NOTICIAS", Globo News https://proxyts.canais.gratis:8443/hls1/globonews.m3u8 
+
+#EXTINF: -1 tvg-logo = "http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title = "NOTICIAS", Globo News https://proxyts.canais.gratis:8443/hls1/globonews.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/nxxEMk" group-title = "NOTICIAS", DW http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8 
+
+#EXTINF: -1 tvg-logo = "https://goo.gl/nxxEMk" group-title = "NOTICIAS", DW http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8 
+
+#EXTINF: -1 tvg-logo=''https://cdn.esporteone.com/GLOBOSPHD/video.m3u8?md5=1VpWOoahlXQZyXNk9wszyQ&expires=1629478235
+
+#EXTINF:0,https://dtv-latam-jbc.akamaized.net/dash/live/2004561/sky/dtvlatam-sportvhd/1629322414/por-aac-por-25389.mp4
+
